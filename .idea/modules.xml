@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/security-core/security-core.iml" filepath="$PROJECT_DIR$/security-core/security-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-web/security-web.iml" filepath="$PROJECT_DIR$/security-web/security-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/weeklog-parent.iml" filepath="$PROJECT_DIR$/weeklog-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/weeklog-shop/weeklog-shop.iml" filepath="$PROJECT_DIR$/weeklog-shop/weeklog-shop.iml" />
     </modules>
   </component>
 </project>

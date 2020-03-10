@@ -10,7 +10,6 @@
         <module name="security-browser" />
         <module name="security-core" />
         <module name="security-web" />
-        <module name="weeklog-shop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

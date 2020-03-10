@@ -12,7 +12,6 @@
         <module>security-browser</module>
         <module>security-app</module>
         <module>security-web</module>
-        <module>weeklog-shop</module>
     </modules>
 
     <properties>
